@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "SnapMakerHomebridgePlugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
