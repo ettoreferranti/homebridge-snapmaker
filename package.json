@@ -1,6 +1,6 @@
 {
   "private": true,
-  "displayName": "Snapmaker",
+  "displayName": "Snapmaker Plugin",
   "name": "homebridge-plugin-snapmaker",
   "version": "1.0.0",
   "description": "This plugin gets the status of a snapmaker.",
